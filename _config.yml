@@ -1,0 +1,27 @@
+permalink:              pretty
+
+title:                  argp
+tagline:
+url:                    https://argp.github.io
+baseurl:                "https://argp.github.io"
+# baseurl:
+
+sass:
+    sass_dir:           _sass
+    style:              :compressed
+
+author:
+    name:               argp
+    url:
+    email:              argp@census-labs.com
+
+version:                6.66
+github:
+repo:                   https://github.com/argp/argp.github.io
+
+pages_list:
+    posts:              '/posts'
+    research:           '/research'
+    bugs:               '/bugs'
+
+# EOF
